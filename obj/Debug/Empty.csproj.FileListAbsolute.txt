@@ -1,0 +1,15 @@
+C:\Users\nina.vazae\Documents\Empty\bin\Debug\Empty.exe.config
+C:\Users\nina.vazae\Documents\Empty\bin\Debug\Empty.exe
+C:\Users\nina.vazae\Documents\Empty\bin\Debug\Empty.pdb
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.csproj.AssemblyReference.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.csproj.SuggestedBindingRedirects.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.Properties.Resources.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.csproj.GenerateResource.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.csproj.CoreCompileInputs.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.exe
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.pdb
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.IntroScreen.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.Village.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.StartMenu.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.Nether.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.GameOver.resources
