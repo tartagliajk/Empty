@@ -46,6 +46,10 @@ ______
   <img src="https://user-images.githubusercontent.com/92087041/200145809-8aec435b-c892-43c6-beeb-fff805a6b869.png" alt = "run file">
 <li> Enjoy the game! </li>
 </ol>
+OBS!!!
+The font used might need to be downloaded:
+
+- https://www.fontspace.com/determination-mono-web-font-f23209
 
 ______
 ### Mod/Customise files ⚙️
