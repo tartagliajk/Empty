@@ -40,8 +40,10 @@ ______
 </p>
 <ol>
 <li> Download the github folder by clicking on the code button and download ZIP </li>
-<li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) </li>
+<li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) 
+  <br>Instructions if needed: https://www.wikihow.com/Unzip-a-File</li>
 <li> Open the folder and open the “Empty.exe” file </li>
+  <img src="https://user-images.githubusercontent.com/92087041/200145809-8aec435b-c892-43c6-beeb-fff805a6b869.png" alt = "run file">
 <li> Enjoy the game! </li>
 </ol>
 
