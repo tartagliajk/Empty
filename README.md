@@ -39,7 +39,7 @@ ______
   <img src="https://user-images.githubusercontent.com/92087041/200142875-e2df5db7-a172-459e-bac3-c99103432e32.png" alt = "Install" width = "70%" height = "110px"/>
 </p>
 <ol>
-<li> Download the github folder </li>
+<li> Download the github folder by clicking on the code button and download ZIP </li>
 <li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) </li>
 <li> Open the folder and open the “Empty.exe” file </li>
 <li> Enjoy the game! </li>
