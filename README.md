@@ -1,5 +1,5 @@
 # ✧･ﾟ: *✧･ﾟ:  Empty  :･ﾟ✧*:･ﾟ✧
-## Navigation
+## Navigation 📍
 - [Project Description](https://github.com/tartagliajk/Empty/new/main?readme=1#project-description)
 
 - [File explanations](https://github.com/tartagliajk/Empty/new/main?readme=1#file-explanations)
@@ -10,7 +10,7 @@
 
 - [Screenshoots](https://github.com/tartagliajk/Empty/new/main?readme=1#screenshots)
 _____
-### Project Description
+### Project Description 📚
 It all started with an ambition to create games and so hereby I represent: Empty. 
 (Yikes! might contain some minor grammatical errors and spelling mistakes) 
 
@@ -22,7 +22,7 @@ Empty is an:
 where you as the player explore an unknown realm that might contain secrets. 
 ______
 
-### File explanations
+### File explanations 📁
 Files that end with “[Name].cs” or “[Name].Designer.cs” are the source files. 
 
 ![Source Files](https://user-images.githubusercontent.com/92087041/200144037-47f0fc74-3255-47ed-9c34-47b4c6e7bc66.png)
@@ -33,7 +33,7 @@ The files named “[Name].resx” are the Microsoft NET managed resources file.
 <br>
 
 ______
-### Mod/Customise files
+### Mod/Customise files ⚙️
 If you want to customise/mod the files then:
 <ol>
 <li> Download Visual Studio, follow this guide if needed: 
@@ -46,7 +46,7 @@ https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?vie
 </ol>
 
 ______
-### Installation
+### Installation ⬇️
 <p align = "left">
   <img src="https://user-images.githubusercontent.com/92087041/200142875-e2df5db7-a172-459e-bac3-c99103432e32.png" alt = "Install" width = "70%" height = "110px"/>
 </p>
@@ -58,7 +58,7 @@ ______
 </ol>
 
 ______
-### Screenshots
+### Screenshots 📸
 <p align = "left">
   <img src="https://user-images.githubusercontent.com/92087041/200142874-467337e7-9a92-4415-a9d9-3e148c86e10d.png" alt = "Screenshots" width = "70%" height = "130px"/>
 </p>
@@ -68,3 +68,5 @@ ______
   <br>
   <img src="https://user-images.githubusercontent.com/92087041/200144433-7f20714c-7b07-48cb-b0cc-ab1f0c6c787f.png" alt = "Example screenshot 2" height = "400px">
 </p>
+
+______
