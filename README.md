@@ -4,9 +4,9 @@
 
 - [File explanations](https://github.com/tartagliajk/Empty#file-explanations-)
 
-- [Mod/Customise files](https://github.com/tartagliajk/Empty#modcustomise-files-%EF%B8%8F)
-
 - [Installation](https://github.com/tartagliajk/Empty#installation-%EF%B8%8F)
+
+- [Mod/Customise files](https://github.com/tartagliajk/Empty#modcustomise-files-%EF%B8%8F)
 
 - [Screenshoots](https://github.com/tartagliajk/Empty#screenshots-)
 _____
@@ -33,6 +33,19 @@ The files named “[Name].resx” are the Microsoft NET managed resources file.
 <br>
 
 ______
+
+### Installation ⬇️
+<p align = "left">
+  <img src="https://user-images.githubusercontent.com/92087041/200142875-e2df5db7-a172-459e-bac3-c99103432e32.png" alt = "Install" width = "70%" height = "110px"/>
+</p>
+<ol>
+<li> Download the github folder </li>
+<li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) </li>
+<li> Open the folder and open the “Empty.exe” file </li>
+<li> Enjoy the game! </li>
+</ol>
+
+______
 ### Mod/Customise files ⚙️
 If you want to customise/mod the files then:
 <ol>
@@ -43,18 +56,6 @@ https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?vie
 <img src="https://user-images.githubusercontent.com/92087041/200144103-de186669-000d-443d-8a51-9c314e2006a2.png" height = "270px" alt = "Open folder">
 <li> Then click on the file named “Empty.sln” and you are ready to mod the files. (the one highlighted in green)</li>
 <img src="https://user-images.githubusercontent.com/92087041/200144219-dea86f1d-95d4-462c-b849-9144a80e3c19.png" alt = "Sln file">
-</ol>
-
-______
-### Installation ⬇️
-<p align = "left">
-  <img src="https://user-images.githubusercontent.com/92087041/200142875-e2df5db7-a172-459e-bac3-c99103432e32.png" alt = "Install" width = "70%" height = "110px"/>
-</p>
-<ol>
-<li> Download the github folder </li>
-<li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) </li>
-<li> Open the folder and open the “Empty.exe” file </li>
-<li> Enjoy the game! </li>
 </ol>
 
 ______
