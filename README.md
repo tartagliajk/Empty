@@ -1,4 +1,4 @@
-# Empty
+# ✧･ﾟ: *✧･ﾟ:  Empty  :･ﾟ✧*:･ﾟ✧
 ## Navigation
 - [Project Description](https://github.com/tartagliajk/Empty/new/main?readme=1#project-description)
 
