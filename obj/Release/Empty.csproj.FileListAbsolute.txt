@@ -1,0 +1,17 @@
+C:\Users\nina.vazae\Documents\Empty\bin\Release\Empty.exe.config
+C:\Users\nina.vazae\Documents\Empty\bin\Release\Empty.exe
+C:\Users\nina.vazae\Documents\Empty\bin\Release\Empty.pdb
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.csproj.AssemblyReference.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.csproj.SuggestedBindingRedirects.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.GameOver.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.IntroScreen.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.Nether.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.StartMenu.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.Properties.Resources.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.Stronghold.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.Village.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.csproj.GenerateResource.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.csproj.CoreCompileInputs.cache
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.exe
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.pdb
+C:\Users\nina.vazae\Documents\Empty\obj\Release\Empty.End.resources

@@ -14,3 +14,4 @@ C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.StartMenu.resources
 C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.Nether.resources
 C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.GameOver.resources
 C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.Stronghold.resources
+C:\Users\nina.vazae\Documents\Empty\obj\Debug\Empty.End.resources

@@ -95,6 +95,9 @@
     <Compile Include="Village.Designer.cs">
       <DependentUpon>Village.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="End.resx">
+      <DependentUpon>End.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GameOver.resx">
       <DependentUpon>GameOver.cs</DependentUpon>
     </EmbeddedResource>
@@ -181,6 +184,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="img\PortalRoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\End.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
