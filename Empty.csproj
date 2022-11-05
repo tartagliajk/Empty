@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="End.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="End.Designer.cs">
+      <DependentUpon>End.cs</DependentUpon>
+    </Compile>
     <Compile Include="GameOver.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,9 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="Stronghold.resx">
+      <DependentUpon>Stronghold.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Village.resx">
       <DependentUpon>Village.cs</DependentUpon>
     </EmbeddedResource>
@@ -163,6 +172,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="img\Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Library.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Storage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\PortalRoom.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

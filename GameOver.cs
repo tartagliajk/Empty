@@ -21,5 +21,14 @@ namespace Empty
         {
             Environment.Exit(0);
         }
+
+        private void StartOver_Click(object sender, EventArgs e)
+        {
+            StartMenu startMenu = new StartMenu();
+
+            startMenu.Show();
+
+            this.Hide();
+        }
     }
 }

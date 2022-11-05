@@ -113,6 +113,16 @@ namespace Empty.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Library {
+            get {
+                object obj = ResourceManager.GetObject("Library", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Nether {
             get {
                 object obj = ResourceManager.GetObject("Nether", resourceCulture);
@@ -126,6 +136,16 @@ namespace Empty.Properties {
         internal static System.Drawing.Bitmap Portal {
             get {
                 object obj = ResourceManager.GetObject("Portal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap PortalRoom {
+            get {
+                object obj = ResourceManager.GetObject("PortalRoom", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -156,6 +176,16 @@ namespace Empty.Properties {
         internal static System.Drawing.Bitmap Spawner {
             get {
                 object obj = ResourceManager.GetObject("Spawner", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Storage {
+            get {
+                object obj = ResourceManager.GetObject("Storage", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

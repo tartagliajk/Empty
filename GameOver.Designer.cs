@@ -28,22 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.end = new System.Windows.Forms.Button();
+            this.Exit = new System.Windows.Forms.Button();
+            this.StartOver = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // end
+            // Exit
             // 
-            this.end.AutoSize = true;
-            this.end.BackColor = System.Drawing.Color.Black;
-            this.end.Font = new System.Drawing.Font("Determination Mono Web", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.end.ForeColor = System.Drawing.Color.Red;
-            this.end.Location = new System.Drawing.Point(429, 272);
-            this.end.Name = "end";
-            this.end.Size = new System.Drawing.Size(307, 71);
-            this.end.TabIndex = 1;
-            this.end.Text = "Game Over";
-            this.end.UseVisualStyleBackColor = false;
-            this.end.Click += new System.EventHandler(this.end_Click);
+            this.Exit.AutoSize = true;
+            this.Exit.BackColor = System.Drawing.Color.Black;
+            this.Exit.Font = new System.Drawing.Font("Determination Mono Web", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Exit.ForeColor = System.Drawing.Color.Red;
+            this.Exit.Location = new System.Drawing.Point(132, 264);
+            this.Exit.Name = "Exit";
+            this.Exit.Size = new System.Drawing.Size(307, 71);
+            this.Exit.TabIndex = 1;
+            this.Exit.Text = "Exit";
+            this.Exit.UseVisualStyleBackColor = false;
+            this.Exit.Click += new System.EventHandler(this.end_Click);
+            // 
+            // StartOver
+            // 
+            this.StartOver.AutoSize = true;
+            this.StartOver.BackColor = System.Drawing.Color.Black;
+            this.StartOver.Font = new System.Drawing.Font("Determination Mono Web", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.StartOver.ForeColor = System.Drawing.Color.Red;
+            this.StartOver.Location = new System.Drawing.Point(683, 264);
+            this.StartOver.Name = "StartOver";
+            this.StartOver.Size = new System.Drawing.Size(307, 71);
+            this.StartOver.TabIndex = 2;
+            this.StartOver.Text = "Home Menu";
+            this.StartOver.UseVisualStyleBackColor = false;
+            this.StartOver.Click += new System.EventHandler(this.StartOver_Click);
             // 
             // GameOver
             // 
@@ -51,7 +66,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1164, 615);
-            this.Controls.Add(this.end);
+            this.Controls.Add(this.StartOver);
+            this.Controls.Add(this.Exit);
             this.Font = new System.Drawing.Font("Determination Mono Web", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -66,6 +82,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Button end;
+        private System.Windows.Forms.Button Exit;
+        private System.Windows.Forms.Button StartOver;
     }
 }
