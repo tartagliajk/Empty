@@ -1,14 +1,14 @@
 # ✧･ﾟ: *✧･ﾟ:  Empty  :･ﾟ✧*:･ﾟ✧
 ## Navigation 📍
-- [Project Description](https://github.com/tartagliajk/Empty/new/main?readme=1#project-description)
+- [Project Description](https://github.com/tartagliajk/Empty#project-description-)
 
-- [File explanations](https://github.com/tartagliajk/Empty/new/main?readme=1#file-explanations)
+- [File explanations](https://github.com/tartagliajk/Empty#file-explanations-)
 
-- [Mod/Customise files](https://github.com/tartagliajk/Empty/new/main?readme=1#modcustomise-files)
+- [Mod/Customise files](https://github.com/tartagliajk/Empty#modcustomise-files-%EF%B8%8F)
 
-- [Installation](https://github.com/tartagliajk/Empty/new/main?readme=1#installation)
+- [Installation](https://github.com/tartagliajk/Empty#installation-%EF%B8%8F)
 
-- [Screenshoots](https://github.com/tartagliajk/Empty/new/main?readme=1#screenshots)
+- [Screenshoots](https://github.com/tartagliajk/Empty#screenshots-)
 _____
 ### Project Description 📚
 It all started with an ambition to create games and so hereby I represent: Empty. 
