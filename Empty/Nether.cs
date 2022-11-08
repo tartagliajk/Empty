@@ -124,7 +124,8 @@ namespace Empty
 
             PigmenText.Text = ("The player walked towards it." +
                 "\nIt looked at the player with a smile and it took off its crown." +
-                "\nIt held it towards the player.\nThe player bowed and the pigman put the crown on the player's head." +
+                "\nIt held it towards the player." +
+                "\nThe player bowed and the pigman put the crown on the player's head." +
                 "\nIt waved a hand towards the tunnel.\n“Don’t look back,” it said." +
                 "\nThe player walked through the tunnel not daring to look back." +
                 "\nPurple blue light shines through the tunnel." +
