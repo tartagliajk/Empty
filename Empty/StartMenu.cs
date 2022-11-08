@@ -23,6 +23,8 @@ namespace Empty
 
         private void StartButton_Click(object sender, EventArgs e)
         {
+            //creats a new form and hides the parent => changes "room"
+            
             IntroScreen introScreen = new IntroScreen();
 
             introScreen.Show();
@@ -56,6 +58,7 @@ namespace Empty
     }
 }
 
+//declaring globals
 public static class Globals
 {
     public static int Weapon;

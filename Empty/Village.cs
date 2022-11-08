@@ -155,6 +155,7 @@ namespace Empty
         private void PortalTextArrow_Click(object sender, EventArgs e)
         {
             PortalTextArrow.Visible = false;
+
             NetherArrow.Visible = true;
 
             PortalText.Text = ("'Risk? Yes.'\nThe player runs towards the portal." +

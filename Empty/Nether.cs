@@ -120,6 +120,7 @@ namespace Empty
         private void PigmenArrow_Click(object sender, EventArgs e)
         {
             PigmenArrow.Visible = false;
+
             StrongholdArrow.Visible = true;
 
             PigmenText.Text = ("The player walked towards it." +

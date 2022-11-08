@@ -113,7 +113,7 @@ namespace Empty
             BirchTreesText.Text = "Picaxe? Shovel? Hoe?" +
                 "\nSomehow the player still remembers how to create them.\nThe player looks at the creation…" +
                 "\nTurns it…\nThe player decides to explore a bit but it doesn't find anything useful." +
-                "\nIt looks up to the sky.\nIt’s getting late.\nHeads towards the village.\n";
+                "\nIt looks up to the sky.\nIt’s getting late.\nHeads towards the village.";
 
         }
 

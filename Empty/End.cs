@@ -52,6 +52,7 @@ namespace Empty
             Near.Visible = true;
             Far.Visible = true;
 
+            //ranged weapons
             if (Globals.Weapon == 1 || Globals.Weapon == 2)
             {
                 EndText.Text = ("The player decides to shoot at the crystals which resulted in them exploding." +
