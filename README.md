@@ -35,9 +35,6 @@ The files named “[Name].resx” are the Microsoft NET managed resources file.
 ______
 
 ### Installation ⬇️
-<p align = "left">
-  <img src="https://user-images.githubusercontent.com/92087041/200142875-e2df5db7-a172-459e-bac3-c99103432e32.png" alt = "Install" width = "70%" height = "110px"/>
-</p>
 <ol>
 <li> Download the github folder by clicking on the code button and download ZIP </li>
 <li> If needed unzip the folder with a program (WinZip, 7-Zip or other alternatives) 
@@ -66,9 +63,6 @@ https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?vie
 
 ______
 ### Screenshots 📸
-<p align = "left">
-  <img src="https://user-images.githubusercontent.com/92087041/200142874-467337e7-9a92-4415-a9d9-3e148c86e10d.png" alt = "Screenshots" width = "70%" height = "130px"/>
-</p>
 <p align = "center">
   <br>
   <img src="https://user-images.githubusercontent.com/92087041/200144435-a3e930c2-3027-48e0-9549-89efa7c83092.png" alt = "Example screenshot 1" height = "400px">
